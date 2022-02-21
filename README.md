@@ -1,19 +1,9 @@
 # Script-em-DOS-BATCH
-&nbsp;
 
+**Login:** fatec
 
-**Login:**
-
-&nbsp;
-
- fatec
 
 &nbsp;
 
 
-**Senha:**
-
-&nbsp;
-
-
- 123
+**Senha:** 123
